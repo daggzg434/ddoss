@@ -370,7 +370,7 @@ bot.on('message', (msg) => {
   // Menanggapi perintah /start
   if (command.toLowerCase() === '/start') {
     const welcomeMessage = 
-      `┌─ Welcome to BT4Team DDOS Bot\n` +
+      `┌─ Welcome to EsTeam DDOS Bot\n` +
       `│ This bot attack ddos to hosts.\n` +
       `└────────────\n\n` +
       `📋 Available Commands:\n` +
