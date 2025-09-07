@@ -3,7 +3,7 @@ const { exec } = require('child_process');
 const fs = require('fs');
 
 // Ganti dengan token bot Telegram Anda
-const token = '';
+const token = '7457163096:AAGPCV7LXVvo0tBCUwyaOYjLVq-0JBAu0xk';
 
 // Inisialisasi bot dengan token
 const bot = new TelegramBot(token, { polling: true });
@@ -12,7 +12,7 @@ const bot = new TelegramBot(token, { polling: true });
 const DATA_FILE = 'urls.json';
 
 // Array username yang diizinkan
-const AUTHORIZED_USERNAMES = ['bluetriple4'];
+const AUTHORIZED_USERNAMES = ['ALLGAMEINBD_ESTEAM_OFFSEAL'];
 
 // Fungsi untuk membaca data dari file JSON
 function readData() {
